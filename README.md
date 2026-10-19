@@ -14,7 +14,7 @@ My research is on building intelligent systems that create new scientific knowle
 
 #### Projects
 
-- [**Probabilistic matrix factorization**](https://github.com/lorenzocaputi/probabilistic-matrix-factorization): seven ways to fill in a matrix with missing entries, compared on simulated data and on 100,000 movie ratings, with notes on the theory. Part of my research assistant work with Omiros Papaspiliopoulos at Bocconi.
+- [**Probabilistic matrix factorization**](https://github.com/lorenzocaputi/probabilistic-matrix-factorization): seven ways to fill in a matrix with missing entries, compared on simulated data and on 100,000 movie ratings, with notes on the theory. Inspired by my research assistant work with Prof. Omiros Papaspiliopoulos at Bocconi.
 - [**Rubik's cube solvers**](https://github.com/lorenzocaputi/rubiks-cube-solvers): five solvers written from scratch, from the beginner's method to the shortest possible solution and a network trained by reinforcement learning, compared on the same scrambled cubes.
 - [**Telomere length and the limit of human lifespan**](https://github.com/lorenzocaputi/telomere-longevity): why the range of telomere lengths compatible with life narrows with age, and what that says about an upper limit to human lifespan. With Andrea Procopio and Lorenzo Battaglia.
 - [**Simulated annealing on random 3-SAT**](https://github.com/lorenzocaputi/simulated-annealing-3sat): how close simulated annealing gets to the point where random 3-SAT formulas stop having solutions, and how that changes with formula size and annealing time.
